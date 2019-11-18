@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Veralitics",
+    "description": "",
+    "home_page_url": "https://bmichener.github.io/webpage",
+    "feed_url": "https://bmichener.github.io/webpage/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Ben M"
+    },
+    "items": [
+        {
+            "id": "https://bmichener.github.io/webpage/test-post.html",
+            "url": "https://bmichener.github.io/webpage/test-post.html",
+            "title": "Test Post",
+            "author": {
+                "name": "Ben M"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-11-17T22:10:05-05:00",
+            "date_modified": "2019-11-17T22:10:05-05:00"
+        }
+    ]
+}
