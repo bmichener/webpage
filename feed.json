@@ -12,14 +12,16 @@
         {
             "id": "https://bmichener.github.io/webpage/test-post.html",
             "url": "https://bmichener.github.io/webpage/test-post.html",
-            "title": "Test Post",
+            "title": "veralitics",
+            "summary": "insightful. verifiable. actionable. veraltics. a dc-based data analytics firm info@veralitics.com",
+            "content_html": "<p id=\"mcetoc_1dquodui70\">insightful.<br>verifiable.<br>actionable.</p>\n<p>veraltics.</p>\n<p>a dc-based data analytics firm<br>info@veralitics.com</p>",
             "author": {
                 "name": "Ben M"
             },
             "tags": [
             ],
             "date_published": "2019-11-17T22:10:05-05:00",
-            "date_modified": "2019-11-17T22:10:05-05:00"
+            "date_modified": "2019-11-30T13:20:22-05:00"
         }
     ]
 }

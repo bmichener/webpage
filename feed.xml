@@ -3,22 +3,32 @@
     <title>Veralitics</title>
     <link href="https://bmichener.github.io/webpage/feed.xml" rel="self" />
     <link href="https://bmichener.github.io/webpage" />
-    <updated>2019-11-17T22:26:02-05:00</updated>
+    <updated>2019-11-30T13:21:07-05:00</updated>
     <author>
         <name>Ben M</name>
     </author>
     <id>https://bmichener.github.io/webpage</id>
 
     <entry>
-        <title>Test Post</title>
+        <title>veralitics</title>
         <author>
             <name>Ben M</name>
         </author>
         <link href="https://bmichener.github.io/webpage/test-post.html"/>
         <id>https://bmichener.github.io/webpage/test-post.html</id>
 
-        <updated>2019-11-17T22:10:05-05:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2019-11-30T13:20:22-05:00</updated>
+            <summary>
+                <![CDATA[
+                    insightful. verifiable. actionable. veraltics. a dc-based data analytics firm info@veralitics.com
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p id="mcetoc_1dquodui70">insightful.<br>verifiable.<br>actionable.</p>
+<p>veraltics.</p>
+<p>a dc-based data analytics firm<br>info@veralitics.com</p>
+            ]]>
+        </content>
     </entry>
 </feed>
